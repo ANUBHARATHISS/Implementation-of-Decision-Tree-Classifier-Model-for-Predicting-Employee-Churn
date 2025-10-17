@@ -56,7 +56,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ![image](https://github.com/user-attachments/assets/7b2e849b-5362-42c7-aa9b-e11197a18184)
 
-![image](https://github.com/user-attachments/assets/4eba14b4-c2cb-4e71-80d9-5f15d83fa2a0)
+![WhatsApp Image 2025-10-17 at 10 25 24 AM](https://github.com/user-attachments/assets/9f4f264c-efac-4503-a8d9-0dd9d6c9fb05)
+
 
 
 
